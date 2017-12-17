@@ -18,7 +18,7 @@ https://events.ccc.de/congress/2017/wiki/Assembly:Rubytown It's a bit tricky:
 
 1. If you don't have a user yet create yourself one
 1. Create a profile in the wiki by going to your user page https://events.ccc.de/congress/2017/wiki/index.php/User:YOUR_USERNAME
-1. Edit the page and add the folling information to it
+1. Edit the page and add the following information to it
 
 ```
 {{User
